@@ -1,0 +1,445 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.22)  12 FEB 2017 17:39
+entering extended mode
+**./P6Lab2.tex
+(P6Lab2.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex4\revtex4.cl
+s"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex4\revsymb.st
+y"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex4\aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\latex\revtex4\11pt.rtx"
+File: 11pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count94
+\float@exts=\toks17
+\float@box=\box34
+\@float@everytoks=\toks18
+\@floatcapt=\box35
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks19
+\verbatim@line=\toks20
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen104
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box36
+\strutbox@=\box37
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip11
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks22
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks23
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks24
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+)) (P6Lab2.aux)
+\openout1 = `P6Lab2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+Class revtex4 Info: Patching LaTeX tabular. on input line 17.
+Class revtex4 Info: cite was not loaded (OK!) on input line 17.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 17.
+
+("C:\Users\Kevin Truong\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen113
+\scratchbox=\box38
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen114
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks27
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Font Warning: Command \Large invalid in math mode on input line 21.
+
+[1{C:/Users/Kevin Truong/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2] [3] <Setup.png, id=21, 530.73282pt x 114.4275pt>
+File: Setup.png Graphic file (type png)
+ <use Setup.png>
+Package pdftex.def Info: Setup.png used on input line 58.
+(pdftex.def)             Requested size: 289.07999pt x 62.3277pt.
+ [4 <./Setup.png>] <PartADistvsTime.pdf, id=26, 794.97pt x 614.295pt>
+File: PartADistvsTime.pdf Graphic file (type pdf)
+
+<use PartADistvsTime.pdf>
+Package pdftex.def Info: PartADistvsTime.pdf used on input line 75.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+<PartAVeloctiyvsTime.pdf, id=27, 794.97pt x 614.295pt>
+File: PartAVeloctiyvsTime.pdf Graphic file (type pdf)
+
+<use PartAVeloctiyvsTime.pdf>
+Package pdftex.def Info: PartAVeloctiyvsTime.pdf used on input line 85.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+ [5 <./PartADistvsTime.pdf> <./PartAVeloctiyvsTime.pdf
+
+pdfTeX warning: pdflatex (file ./PartAVeloctiyvsTime.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>] <PartAAccvsTime.pdf, id=46, 794.97pt x 614.295pt>
+File: PartAAccvsTime.pdf Graphic file (type pdf)
+ <use PartAAccvsTime.pdf>
+Package pdftex.def Info: PartAAccvsTime.pdf used on input line 95.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+[6 <./PartAAccvsTime.pdf>] <VectorPartA.png, id=58, 526.96875pt x 176.15813pt>
+File: VectorPartA.png Graphic file (type png)
+
+<use VectorPartA.png>
+Package pdftex.def Info: VectorPartA.png used on input line 108.
+(pdftex.def)             Requested size: 289.07999pt x 96.63997pt.
+ [7 <./VectorPartA.png>] [8]
+<PartAPredHighActLow.pdf, id=68, 794.97pt x 614.295pt>
+File: PartAPredHighActLow.pdf Graphic file (type pdf)
+
+<use PartAPredHighActLow.pdf>
+Package pdftex.def Info: PartAPredHighActLow.pdf used on input line 184.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+<PartAPredHighActLowVel.pdf, id=69, 794.97pt x 614.295pt>
+File: PartAPredHighActLowVel.pdf Graphic file (type pdf)
+
+<use PartAPredHighActLowVel.pdf>
+Package pdftex.def Info: PartAPredHighActLowVel.pdf used on input line 187.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+ [9 <./PartAPredHighActLow.pdf> <./PartAPredHighActLowVel.pdf
+
+pdfTeX warning: pdflatex (file ./PartAPredHighActLowVel.pdf): PDF inclusion: mu
+ltiple pdfs with page group included in a single page
+>] <PartAActualAcc.pdf, id=88, 794.97pt x 614.295pt>
+File: PartAActualAcc.pdf Graphic file (type pdf)
+ <use PartAActualAcc.pdf>
+Package pdftex.def Info: PartAActualAcc.pdf used on input line 200.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+<PartAActualVel.pdf, id=89, 794.97pt x 614.295pt>
+File: PartAActualVel.pdf Graphic file (type pdf)
+ <use PartAActualVel.pdf>
+Package pdftex.def Info: PartAActualVel.pdf used on input line 203.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+[10 <./PartAActualAcc.pdf> <./PartAActualVel.pdf
+
+pdfTeX warning: pdflatex (file ./PartAActualVel.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>] [11] <PartBSlowingdownAcc.pdf, id=111, 794.97pt x 614.295pt>
+File: PartBSlowingdownAcc.pdf Graphic file (type pdf)
+
+<use PartBSlowingdownAcc.pdf>
+Package pdftex.def Info: PartBSlowingdownAcc.pdf used on input line 241.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+<PartBSlowingDownVel.pdf, id=112, 794.97pt x 614.295pt>
+File: PartBSlowingDownVel.pdf Graphic file (type pdf)
+
+<use PartBSlowingDownVel.pdf>
+Package pdftex.def Info: PartBSlowingDownVel.pdf used on input line 244.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+ [12 <./PartBSlowingdownAcc.pdf> <./PartBSlowingDownVel.pdf
+
+pdfTeX warning: pdflatex (file ./PartBSlowingDownVel.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>] <VectorPartB.png, id=131, 522.45187pt x 150.5625pt>
+File: VectorPartB.png Graphic file (type png)
+ <use VectorPartB.png>
+Package pdftex.def Info: VectorPartB.png used on input line 257.
+(pdftex.def)             Requested size: 289.07999pt x 83.30815pt.
+
+[13 <./VectorPartB.png>] <PartCAcceleration.pdf, id=137, 794.97pt x 614.295pt>
+File: PartCAcceleration.pdf Graphic file (type pdf)
+
+<use PartCAcceleration.pdf>
+Package pdftex.def Info: PartCAcceleration.pdf used on input line 273.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+ <PartCVelocity.pdf, id=138, 794.97pt x 614.295pt>
+File: PartCVelocity.pdf Graphic file (type pdf)
+
+<use PartCVelocity.pdf>
+Package pdftex.def Info: PartCVelocity.pdf used on input line 276.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+ [14 <./PartCAcceleration.pdf> <./PartCVelocity.pdf
+
+pdfTeX warning: pdflatex (file ./PartCVelocity.pdf): PDF inclusion: multiple pd
+fs with page group included in a single page
+>] <VectorPartC.png, id=157, 552.56438pt x 153.57375pt>
+File: VectorPartC.png Graphic file (type png)
+ <use VectorPartC.png>
+Package pdftex.def Info: VectorPartC.png used on input line 291.
+(pdftex.def)             Requested size: 289.07999pt x 80.34152pt.
+
+[15 <./VectorPartC.png>] <VectorPartD.png, id=161, 548.0475pt x 141.52875pt>
+File: VectorPartD.png Graphic file (type png)
+
+<use VectorPartD.png>
+Package pdftex.def Info: VectorPartD.png used on input line 309.
+(pdftex.def)             Requested size: 289.07999pt x 74.65355pt.
+ [16 <./VectorPartD.png>]
+<PartEAcceleration.pdf, id=166, 794.97pt x 614.295pt>
+File: PartEAcceleration.pdf Graphic file (type pdf)
+
+<use PartEAcceleration.pdf>
+Package pdftex.def Info: PartEAcceleration.pdf used on input line 338.
+(pdftex.def)             Requested size: 289.07999pt x 223.38626pt.
+
+<PartEVelocity.png, id=167, 703.12688pt x 413.29407pt>
+File: PartEVelocity.png Graphic file (type png)
+ <use PartEVelocity.png>
+Package pdftex.def Info: PartEVelocity.png used on input line 342.
+(pdftex.def)             Requested size: 289.07999pt x 169.91832pt.
+
+[17 <./PartEAcceleration.pdf> <./PartEVelocity.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 361--363
+
+ []
+
+[18] (P6Lab2.aux) ) 
+Here is how much of TeX's memory you used:
+ 4119 strings out of 493333
+ 54199 string characters out of 3139171
+ 129260 words of memory out of 3000000
+ 7584 multiletter control sequences out of 15000+200000
+ 13088 words of font info for 50 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,7n,26p,2421b,178s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.p
+fb>
+Output written on P6Lab2.pdf (18 pages, 1413125 bytes).
+PDF statistics:
+ 217 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
